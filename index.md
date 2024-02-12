@@ -1,48 +1,53 @@
 
 
-- [Subjective phenomena, as opposed to what?](#subjective-phenomena-as-opposed-to-what)
-- [Social construction means anything goes?](#social-construction-means-anything-goes)
-- [Are all experiences, meanings, preferences equally valid?”](#are-all-experiences-meanings-preferences-equally-valid)
-- [What is Power?](#what-is-power)
-- [Based on the linear model of science, what are the sources of conservation conflicts?](#based-on-the-linear-model-of-science-what-are-the-sources-of-conservation-conflicts)
-- [What does Bjorn Lomborg and his critics tell us about the role of science in understanding environmental problems?](#what-does-bjorn-lomborg-and-his-critics-tell-us-about-the-role-of-science-in-understanding-environmental-problems)
-- [What is the excess of objectivity, with examples from the readings](#what-is-the-excess-of-objectivity-with-examples-from-the-readings)
-- [With examples from oceanographers and GMO scientists, what is the role of values in science?](#with-examples-from-oceanographers-and-gmo-scientists-what-is-the-role-of-values-in-science)
-- [What is meant by a normative framework?](#what-is-meant-by-a-normative-framework)
-- [Based on the political model of science, what are the sources of environmental conflict?](#based-on-the-political-model-of-science-what-are-the-sources-of-environmental-conflict)
-- [What is the role of scientists and scientific evidence in conflict?](#what-is-the-role-of-scientists-and-scientific-evidence-in-conflict)
-- [Is there evidence of linear or political models of science?](#is-there-evidence-of-linear-or-political-models-of-science)
-- [Is there evidence of technocratic, decisionistic or pragmatic approaches to decision making?](#is-there-evidence-of-technocratic-decisionistic-or-pragmatic-approaches-to-decision-making)
-- [Are the organizations and actors of impact assessment set up to favor one particular approach?](#are-the-organizations-and-actors-of-impact-assessment-set-up-to-favor-one-particular-approach)
-- [What is a social movement organization?](#what-is-a-social-movement-organization)
-- [What are the Core Framing Tasks?](#what-are-the-core-framing-tasks)
-- [What are Collective Action Frames?](#what-are-collective-action-frames)
-- [What are the dimensions of collective action frames?](#what-are-the-dimensions-of-collective-action-frames)
-- [What contributes to resonance and salience?](#what-contributes-to-resonance-and-salience)
-- [Examples of “Diagnostic Frame Disputes”](#examples-of-diagnostic-frame-disputes)
-- [Examples of “Representative Anecdotes](#examples-of-representative-anecdotes)
-- [Examples of “Diversionary Reframing”](#examples-of-diversionary-reframing)
-- [In the meta-analysis of climate change belief factors, what are the main take-aways?](#in-the-meta-analysis-of-climate-change-belief-factors-what-are-the-main-take-aways)
-- [How does climate vulnerability and exposure impact climate change views](#how-does-climate-vulnerability-and-exposure-impact-climate-change-views)
-- [Where does the anti-reflexivity thesis fit within the anatomy of conflict?](#where-does-the-anti-reflexivity-thesis-fit-within-the-anatomy-of-conflict)
-- [Notes on the CBC Podcast: *Decoding the Resistance (Naomi Oreskes)*](#notes-on-the-cbc-podcast-decoding-the-resistance-naomi-oreskes)
-- [Clayoquot Sound: The Last Battlefield - The Fifth Estate (1993)](#clayoquot-sound-the-last-battlefield---the-fifth-estate-1993)
-- [What are the potential problems with this approach to preservation through Indigeneity?](#what-are-the-potential-problems-with-this-approach-to-preservation-through-indigeneity)
-- [What is meant by the term *Post-Colonial Environmentalism*](#what-is-meant-by-the-term-post-colonial-environmentalism)
-- [How is a managerial approach used to depoliticize forest conflict?](#how-is-a-managerial-approach-used-to-depoliticize-forest-conflict)
-- [How is the populist approach used to depoliticize the conflict?](#how-is-the-populist-approach-used-to-depoliticize-the-conflict)
-- [What is “delinking” of industry and community success in forestry?](#what-is-delinking-of-industry-and-community-success-in-forestry)
-- [Possible solutions to forest sector problems?](#possible-solutions-to-forest-sector-problems)
-- [What are the general attirbutes of a Community Forest?](#what-are-the-general-attirbutes-of-a-community-forest)
-- [What is Public Participation?](#what-is-public-participation)
-- [What are some issues frequently encountered in Public Participation?](#what-are-some-issues-frequently-encountered-in-public-participation)
+- [I. Anatomy of Conflict](#i-anatomy-of-conflict)
+  - [Subjective phenomena, as opposed to what?](#subjective-phenomena-as-opposed-to-what)
+  - [Social construction means anything goes?](#social-construction-means-anything-goes)
+  - [Are all experiences, meanings, preferences equally valid?”](#are-all-experiences-meanings-preferences-equally-valid)
+  - [What is Power?](#what-is-power)
+- [II. Science, Politics \& Environmental Controversies](#ii-science-politics--environmental-controversies)
+  - [Based on the linear model of science, what are the sources of conservation conflicts?](#based-on-the-linear-model-of-science-what-are-the-sources-of-conservation-conflicts)
+  - [What does Bjorn Lomborg and his critics tell us about the role of science in understanding environmental problems?](#what-does-bjorn-lomborg-and-his-critics-tell-us-about-the-role-of-science-in-understanding-environmental-problems)
+  - [What is the excess of objectivity, with examples from the readings](#what-is-the-excess-of-objectivity-with-examples-from-the-readings)
+  - [With examples from oceanographers and GMO scientists, what is the role of values in science?](#with-examples-from-oceanographers-and-gmo-scientists-what-is-the-role-of-values-in-science)
+  - [What is meant by a normative framework?](#what-is-meant-by-a-normative-framework)
+  - [Based on the political model of science, what are the sources of environmental conflict?](#based-on-the-political-model-of-science-what-are-the-sources-of-environmental-conflict)
+  - [What is the role of scientists and scientific evidence in conflict?](#what-is-the-role-of-scientists-and-scientific-evidence-in-conflict)
+  - [Is there evidence of linear or political models of science?](#is-there-evidence-of-linear-or-political-models-of-science)
+  - [Is there evidence of technocratic, decisionistic or pragmatic approaches to decision making?](#is-there-evidence-of-technocratic-decisionistic-or-pragmatic-approaches-to-decision-making)
+  - [Are the organizations and actors of impact assessment set up to favor one particular approach?](#are-the-organizations-and-actors-of-impact-assessment-set-up-to-favor-one-particular-approach)
+- [III. Stakeholders \& Framing of Environmental Controversies](#iii-stakeholders--framing-of-environmental-controversies)
+  - [What is a social movement organization?](#what-is-a-social-movement-organization)
+  - [What are the Core Framing Tasks?](#what-are-the-core-framing-tasks)
+  - [What are Collective Action Frames?](#what-are-collective-action-frames)
+  - [What are the dimensions of collective action frames?](#what-are-the-dimensions-of-collective-action-frames)
+  - [What contributes to resonance and salience?](#what-contributes-to-resonance-and-salience)
+  - [Examples of “Diagnostic Frame Disputes”](#examples-of-diagnostic-frame-disputes)
+  - [Examples of “Representative Anecdotes](#examples-of-representative-anecdotes)
+  - [Examples of “Diversionary Reframing”](#examples-of-diversionary-reframing)
+- [IV. The Science \& Politics of Climate Change](#iv-the-science--politics-of-climate-change)
+  - [In the meta-analysis of climate change belief factors, what are the main take-aways?](#in-the-meta-analysis-of-climate-change-belief-factors-what-are-the-main-take-aways)
+  - [How does climate vulnerability and exposure impact climate change views](#how-does-climate-vulnerability-and-exposure-impact-climate-change-views)
+  - [Where does the anti-reflexivity thesis fit within the anatomy of conflict?](#where-does-the-anti-reflexivity-thesis-fit-within-the-anatomy-of-conflict)
+  - [Notes on the CBC Podcast: *Decoding the Resistance (Naomi Oreskes)*](#notes-on-the-cbc-podcast-decoding-the-resistance-naomi-oreskes)
+- [V. War in the Woods](#v-war-in-the-woods)
+  - [Clayoquot Sound: The Last Battlefield - The Fifth Estate (1993)](#clayoquot-sound-the-last-battlefield---the-fifth-estate-1993)
+  - [What are the potential problems with this approach to preservation through Indigeneity?](#what-are-the-potential-problems-with-this-approach-to-preservation-through-indigeneity)
+  - [What is meant by the term *Post-Colonial Environmentalism*](#what-is-meant-by-the-term-post-colonial-environmentalism)
+  - [How is a managerial approach used to depoliticize forest conflict?](#how-is-a-managerial-approach-used-to-depoliticize-forest-conflict)
+  - [How is the populist approach used to depoliticize the conflict?](#how-is-the-populist-approach-used-to-depoliticize-the-conflict)
+  - [What is “delinking” of industry and community success in forestry?](#what-is-delinking-of-industry-and-community-success-in-forestry)
+  - [Possible solutions to forest sector problems?](#possible-solutions-to-forest-sector-problems)
+  - [What are the general attirbutes of a Community Forest?](#what-are-the-general-attirbutes-of-a-community-forest)
+  - [What is Public Participation?](#what-is-public-participation)
+  - [What are some issues frequently encountered in Public Participation?](#what-are-some-issues-frequently-encountered-in-public-participation)
 
 
 
 
 
 
-
+# I. Anatomy of Conflict
 
 ## Subjective phenomena, as opposed to what?
 
@@ -53,6 +58,8 @@
 ## What is Power?
 
 the capacity to impose a specific definition of reality which is disadvantageous to others or to limit other’s autonomy. Could be a imposition of a specific *landscape*
+
+# II. Science, Politics & Environmental Controversies
 
 ## Based on the linear model of science, what are the sources of conservation conflicts?
 
@@ -84,6 +91,8 @@ the capacity to impose a specific definition of reality which is disadvantageous
 
 ## Are the organizations and actors of impact assessment set up to favor one particular approach?
 
+# III. Stakeholders & Framing of Environmental Controversies
+
 ## What is a social movement organization?
 
 Diani, M. - "a network of informal interactions between a plurality of individuals, groups and/or organizations, engaged in a political or cultural conflict, on the basis of a shared collective identity"
@@ -102,9 +111,9 @@ Types: (Older Political) Class, race, (Newer Cultural) identify, equity
 
 ## What are the dimensions of collective action frames?
 
-1. **Problem Identification, Locus of Attribution.** The most obvious way in which collective action frames vary is in terms of the problems or issues addressed and the corresponding direction of attribution.
+1. **Problem Identification, Locus of Attribution.** The most obvious way in which collective action frames vary is in terms of the problems or issues addressed and the corresponding direction of attribution.  
     
-2. **Flexibility and Rigidity, Inclusivity and Exclusivity.** Collective action frames may vary in the degree to which they are relatively exclusive, rigid, inelastic, and restricted or relatively inclusive, open, elastic, and elaborated in terms of the number of themes or ideas they incorporate and articulate
+2. **Flexibility and Rigidity, Inclusivity and Exclusivity.** Collective action frames may vary in the degree to which they are relatively exclusive, rigid, inelastic, and restricted or relatively inclusive, open, elastic, and elaborated in terms of the number of themes or ideas they incorporate and articulate  
     
 3. **Variation in Interpretive Scope and Influence**
     
@@ -143,6 +152,8 @@ Types: (Older Political) Class, race, (Newer Cultural) identify, equity
 
 ([Krogman, 1996, p. 22](zotero://select/library/items/DT83TUJG))
 
+# IV. The Science & Politics of Climate Change
+
 ## In the meta-analysis of climate change belief factors, what are the main take-aways?
 
 <table><tbody><tr><td><p><strong>Predictor<br>(Sorted by decreasing explanatory power)</strong></p></td><td><p><strong>Effect on the four belief dimension</strong></p></td><td><p><strong>Theoretical Framework</strong></p></td></tr><tr><td><p><strong>Pro-environment beliefs</strong></p></td><td><p>Strongly positive, consistent</p></td><td><p>Values-Beliefs-Norms</p></td></tr><tr><td><p><strong>Political ideology /<br>Political affilition</strong></p></td><td><p>Left -&gt; Positive<br>Right -&gt; Negative</p></td><td><p>Anti-reflexivity Thesis</p></td></tr><tr><td><p><strong>Gender</strong></p></td><td><p>Women higher in belief and concern than men,<br>third of studies not signficiant</p></td><td><p>Gender Socialization</p></td></tr><tr><td><p><strong>Age, Postmaterialist Values, Egalitarianism</strong></p></td><td><p>Generally poor predictors, mixed results</p></td><td><p>multiple, but not valid</p></td></tr></tbody></table>
@@ -179,6 +190,7 @@ Types: (Older Political) Class, race, (Newer Cultural) identify, equity
         
     - **Equity** in distribution of climate costs (carbon taxes affecting some communities more than others for example)
         
+# V. War in the Woods
 
 ## Clayoquot Sound: The Last Battlefield - The Fifth Estate (1993)
 
