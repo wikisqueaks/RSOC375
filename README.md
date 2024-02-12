@@ -1,4 +1,4 @@
-# **RSOC 375 - Midterm Review**
+# I. Anatomy of Conflict 
 
 ## Subjective phenomena, as opposed to what?
 
@@ -9,6 +9,8 @@
 ## What is Power?
 
 the capacity to impose a specific definition of reality which is disadvantageous to others or to limit other’s autonomy. Could be a imposition of a specific *landscape*
+
+# II. Science, Politics and Environmental Controversies
 
 ## Based on the linear model of science, what are the sources of conservation conflicts?
 
